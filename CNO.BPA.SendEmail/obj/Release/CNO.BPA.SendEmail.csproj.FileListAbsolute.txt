@@ -1,0 +1,18 @@
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Release\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Release\CNO.BPA.SendEmail.pdb

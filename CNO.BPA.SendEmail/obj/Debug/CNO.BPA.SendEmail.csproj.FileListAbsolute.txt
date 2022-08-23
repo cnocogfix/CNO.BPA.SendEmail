@@ -1,0 +1,65 @@
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\cdpja5\Desktop\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.pdb
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\log4net.dll
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\log4net.xml
+C:\Documents and Settings\CDPJA5\My Documents\Development\CNO.BPA.SendEmail\CNO.BPA.SendEmail\bin\Debug\cno.bpa.sendemail.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Oracle.DataAccess.dll
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.GenerateResource.cache
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.dll
+D:\7.1 Files\BPA.net\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.pdb
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll.config
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\CNO.BPA.SendEmail.pdb
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\log4net.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Buffers.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Memory.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Numerics.Vectors.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Text.Encodings.Web.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Text.Json.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.ValueTuple.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\log4net.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Buffers.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Memory.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Numerics.Vectors.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Text.Encodings.Web.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Text.Json.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\bin\Debug\System.ValueTuple.xml
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.CustomParameterEditor1.resources
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.GenerateResource.cache
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.dll
+D:\ProdCodebase\CNO.BPA.SendEmail\trunk\CNO.BPA.SendEmail\obj\Debug\CNO.BPA.SendEmail.pdb
